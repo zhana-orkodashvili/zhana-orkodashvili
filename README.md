@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/zhana-orkodashvili) [![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen)](https://github.com/zhana-orkodashvili)
 
-📧 zhana.orkodashvili@gmail.com | 📞 +995 591 057 872
+📧 zhana.orkodashvili@gmail.com 
 
 ---
 
