@@ -29,6 +29,6 @@ Sep. 2022 – Present
 **Teaching Assistant**  
 Tbilisi State University  
 Sep. 2023 – Present  
-- Taught courses on "Data Structures" and "Basics of Programming"
+- Courses taught: Basics of Programming (Fall 2023), Data Structures (Fall 2023), Data Bases (Spring 2024)
 - Prepared materials for practical and laboratory sessions
 - Assisted professors in creating and grading assignments and examinations
