@@ -18,7 +18,7 @@ Sep. 2020 – June 2024
 
 ## Experience
 
-**Data Analyst/Engineer**  
+**Data Analyst**  
 Making Science Sweeft  
 Sep. 2022 – Present  
 - Extracted online user activity data using Tag Management Systems
